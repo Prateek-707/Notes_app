@@ -1,0 +1,37 @@
+
+.bold-text{
+    font-style: oblique;
+    font-family: -webkit-pictograph;
+}
+
+.center-text{
+    text-align: center;
+}
+
+.center-item{
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    margin-top: 12px;
+}
+
+.thick-border{
+    border: 4px darkblue;
+}
+
+.bg-colour{
+
+    background: black;
+
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+
+.form-style{
+    background-color: black;
+    font-size: 1rem ;
+    /* width: 120% ; */
+}
